@@ -1,9 +1,9 @@
 # KelantS400
-//Here are my settings, will update as i find better settings.
+Here are my settings, will update as i find better settings.
 
-//Follow Photo instructions or import the configuration file (.cfg) to a blank profile in chitubox. 
+Follow Photo instructions or import the configuration file (.cfg) to a blank profile in chitubox. 
 
-//Save your exported files as .ZIP
+Save your exported files as .ZIP
 
 
 
@@ -25,3 +25,6 @@ https://docs.google.com/spreadsheets/d/16ySR-7JTph7sbwI2E4mBBUs2DR2YmuxoActwGzV8
 <img src="https://github.com/loneacoustic/kelants400/blob/master/6.png" />
 
 <img src="https://github.com/loneacoustic/kelants400/blob/master/7.png" />
+
+<img src="https://github.com/loneacoustic/kelants400/blob/master/Supports Settings_Large Prints.png" />
+
