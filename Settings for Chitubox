@@ -1,0 +1,11 @@
+Machine Settings
+Name: S400
+Resolution X:2560
+           Y:1600
+Lock Ratio: ON
+Size: X:192
+      Y:120
+      Z:200
+
+Machine Type: default
+Mirror: LCD_mirror
