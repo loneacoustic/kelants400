@@ -23,3 +23,5 @@ https://docs.google.com/spreadsheets/d/16ySR-7JTph7sbwI2E4mBBUs2DR2YmuxoActwGzV8
 <img src="https://github.com/loneacoustic/kelants400/blob/master/5.png" />
 
 <img src="https://github.com/loneacoustic/kelants400/blob/master/6.png" />
+
+<img src="https://github.com/loneacoustic/kelants400/blob/master/7.png" />
