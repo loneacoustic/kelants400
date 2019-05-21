@@ -15,6 +15,12 @@ Spa: Guarda tus archivos en .ZIP.
 
 
 
+S400_Configuration_(Tue_May_21).cfg
+Added_Wall Thickness set to 2.5mm.
+Added_Rise build plate to 195mm G1 Z195 at end of print.
+
+
+
 
 
 En: Resin Settings:
